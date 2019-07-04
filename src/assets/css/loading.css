@@ -1,0 +1,12 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.message-text {
+}
+
+.message-title {
+    font-size: .7em;
+    text-transform: uppercase;
+    font-weight: 700;
+}
